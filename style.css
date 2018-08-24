@@ -1,0 +1,21 @@
+H1{
+    font-style: italic;
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+}
+h2{
+    font-weight: bolder;
+}
+.negrito{
+    font-weight: bolder;
+}
+.sublinhado{
+    text-decoration: underline;
+}
+.vermelho{
+    color: red;
+}
+.verde{
+    color: green;
+}
