@@ -1,37 +1,38 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8"/> <!--comentário-->
+    <meta charset="UTF-8"/> <!--comentÃ¡rio-->
     <title> Atividade Continua </title>
     <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
     <ol>
-        Leonardo De Oliveira Nowacki
+        <ul>Leonardo De Oliveira Nowacki</ul>
+        <ul>Gustavo da Silva GusmÃ£o</ul>
     </ol>
-    <h1>Inteligência Artificial</h1>
-    <h2>Intodução</h2>
-    <p1 class="negrito">Intência artificial</p1><p2>(por vezes mencionada pela sigla em português IA ou pela sigla em
-        inglês AI - artificial intelligence) é a inteligência similar à humana exibida por mecanismos ou
-        software. Também é um campo de estudo acadêmico. Os principais pesquisadores e livros
-        didáticos definem o campo como "o estudo e projeto de agentes inteligentes", onde um
-        agente inteligente é um sistema que percebe seu ambiente e toma atitudes que maximizam
+    <h1>InteligÃªncia Artificial</h1>
+    <h2>IntoduÃ§Ã£o</h2>
+    <p1 class="negrito">IntÃªncia artificial</p1><p2>(por vezes mencionada pela sigla em portuguÃªs IA ou pela sigla em
+        inglÃªs AI - artificial intelligence) Ã© a inteligÃªncia similar Ã  humana exibida por mecanismos ou
+        software. TambÃ©m Ã© um campo de estudo acadÃªmico. Os principais pesquisadores e livros
+        didÃ¡ticos definem o campo como "o estudo e projeto de agentes inteligentes", onde um
+        agente inteligente Ã© um sistema que percebe seu ambiente e toma atitudes que maximizam
         suas chances de sucesso. John McCarthy, quem cunhou o termo em 1956 ("</p2><p3 class="sublinhado">numa
-        conferência de especialistas celebrada em Darmouth Colege</p3><p4>" Gubern, Román: O Eros
-        Electrónico), a define como "a ciência e engenharia de produzir máquinas inteligentes". É
-        uma área de pesquisa da computação dedicada a buscar métodos ou dispositivos
+        conferÃªncia de especialistas celebrada em Darmouth Colege</p3><p4>" Gubern, RomÃ¡n: O Eros
+        ElectrÃ³nico), a define como "a ciÃªncia e engenharia de produzir mÃ¡quinas inteligentes". Ã‰
+        uma Ã¡rea de pesquisa da computaÃ§Ã£o dedicada a buscar mÃ©todos ou dispositivos
         computacionais que possuam ou multipliquem a capacidade racional do ser humano de
         resolver problemas, pensar ou, de forma ampla, ser inteligente.</p4><br>
-    <p5 class="vermelho"> Também pode ser definida como o ramo da ciência da computação que se ocupa do
+    <p5 class="vermelho"> TambÃ©m pode ser definida como o ramo da ciÃªncia da computaÃ§Ã£o que se ocupa do
         comportamento inteligente ou ainda, o estudo de como fazer os computadores realizarem
         coisas que, atualmente, os humanos fazem melhor.</p5> O principal objetivo dos sistemas de IA,
-        é executar funções que, caso um ser humano fosse executar, seriam consideradas
-        inteligentes.<p6 = class="verde">É um conceito amplo, e que recebe tantas definições quanto damos
-        significados diferentes à palavra Inteligência.</p6> Podemos pensar em algumas características
-        básicas desses sistemas, como a capacidade de raciocínio (aplicar regras lógicas a um
-        conjunto de dados disponíveis para chegar a uma conclusão), aprendizagem (aprender com
-        os erros e acertos de forma a no futuro agir de maneira mais eficaz), reconhecer padrões
-        (tanto padrões visuais e sensoriais, como também padrões de comportamento) e inferência
-        (capacidade de conseguir aplicar o raciocínio nas situações do nosso cotidiano).</p>
+        Ã© executar funÃ§Ãµes que, caso um ser humano fosse executar, seriam consideradas
+        inteligentes.<p6 = class="verde">Ã‰ um conceito amplo, e que recebe tantas definiÃ§Ãµes quanto damos
+        significados diferentes Ã  palavra InteligÃªncia.</p6><p7> Podemos pensar em algumas caracterÃ­sticas
+        bÃ¡sicas desses sistemas, como a capacidade de raciocÃ­nio (aplicar regras lÃ³gicas a um
+        conjunto de dados disponÃ­veis para chegar a uma conclusÃ£o), aprendizagem (aprender com
+        os erros e acertos de forma a no futuro agir de maneira mais eficaz), reconhecer padrÃµes
+        (tanto padrÃµes visuais e sensoriais, como tambÃ©m padrÃµes de comportamento) e inferÃªncia
+        (capacidade de conseguir aplicar o raciocÃ­nio nas situaÃ§Ãµes do nosso cotidiano).</p7>
 </body>
 </html>
